@@ -1,4 +1,4 @@
-# 🐍 Python Tutor — RAG-based Personalized Education System
+#Python Tutor — RAG-based Personalized Education System
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers Python questions
 grounded in a source PDF (e.g. a Python handbook), built with LangChain,

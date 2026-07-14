@@ -2,7 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers Python questions grounded in a source PDF (e.g. a Python handbook), built with **LangChain**, **FAISS**, **HuggingFace embeddings**, **Groq (Llama 3.1)**, and **Streamlit**.
 
-> **Status:** Learning / prototype project. Core RAG pipeline and guardrails are implemented; not yet hardened for production use (see [Roadmap](#roadmap-prototype--mvp)).
 
 ---
 

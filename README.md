@@ -87,8 +87,6 @@ This is a prototype-stage project. Notable gaps:
 - Chat history is stored only in Streamlit session state and is lost on refresh/restart (no database)
 - Single document / single tenant — no multi-user isolation or auth
 - No rate limiting — a public deployment could exhaust API quota
-- No automated evaluation of retrieval/answer quality
-- Basic `print()`-based logging, no observability/tracing
 
 ---
 
